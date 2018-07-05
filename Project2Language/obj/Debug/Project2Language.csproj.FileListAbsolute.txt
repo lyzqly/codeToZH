@@ -1,0 +1,9 @@
+D:\CSharpe\work\Project2Language\Project2Language\bin\Debug\Project2Language.exe.config
+D:\CSharpe\work\Project2Language\Project2Language\bin\Debug\Project2Language.exe
+D:\CSharpe\work\Project2Language\Project2Language\bin\Debug\Project2Language.pdb
+D:\CSharpe\work\Project2Language\Project2Language\obj\Debug\Project2Language.csprojResolveAssemblyReference.cache
+D:\CSharpe\work\Project2Language\Project2Language\obj\Debug\Project2Language.Form1.resources
+D:\CSharpe\work\Project2Language\Project2Language\obj\Debug\Project2Language.Properties.Resources.resources
+D:\CSharpe\work\Project2Language\Project2Language\obj\Debug\Project2Language.csproj.GenerateResource.Cache
+D:\CSharpe\work\Project2Language\Project2Language\obj\Debug\Project2Language.exe
+D:\CSharpe\work\Project2Language\Project2Language\obj\Debug\Project2Language.pdb
